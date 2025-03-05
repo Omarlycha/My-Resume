@@ -11,9 +11,9 @@ I enjoy creating a user-friendly websites and applications, that's responsive an
 - **Languages:
   ![html](https://github.com/user-attachments/assets/23c603d8-c5ec-485e-bf54-754a6cab5d11)
       HTML
-  
+      
+![css](https://github.com/user-attachments/assets/34f8ec99-f0eb-4894-83ee-25d335847b1d)
       CSS
-
     JavaScript
 
 
