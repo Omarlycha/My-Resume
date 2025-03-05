@@ -8,8 +8,8 @@ I enjoy creating a user-friendly websites and applications, that's responsive an
 
 ## Skills
 
-- **Languages: ![html](https://github.com/user-attachments/assets/cbd70ab6-7f0c-45e1-b175-5ae81312e9de)
-(https://github.com/user-attachments/assets/111b857d-c876-4428-bccd-6fa9cc9eb1bf)
+- **Languages: ![html](https://github.com/user-attachments/assets/23c603d8-c5ec-485e-bf54-754a6cab5d11)
+
 HTML, CSS, JavaScript
 
 
