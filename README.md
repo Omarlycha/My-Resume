@@ -8,9 +8,13 @@ I enjoy creating a user-friendly websites and applications, that's responsive an
 
 ## Skills
 
-- **Languages: ![html](https://github.com/user-attachments/assets/23c603d8-c5ec-485e-bf54-754a6cab5d11)
+- **Languages:
+  ![html](https://github.com/user-attachments/assets/23c603d8-c5ec-485e-bf54-754a6cab5d11)
+      HTML
+  
+      CSS
 
-HTML, CSS, JavaScript
+    JavaScript
 
 
 - **Frameworks: [React, Vue.js]
